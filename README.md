@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=SondagarMit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
-
 ---
 
 ## 🌟 **About Me**  
@@ -18,6 +14,21 @@
 📍 **Location:** Surat, India  
 🎯 **Passion:** Developing games, streaming, and sharing gaming content  
 🔥 **Current Focus:** Creating immersive gaming experiences  
+
+---
+
+## 📈 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SondagarMit&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SondagarMit&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SondagarMit&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
