@@ -11,8 +11,31 @@
 💡 **Name:** Mit Sondagar  
 🎮 **Profession:** Game Developer & YouTuber  
 📍 **Location:** Surat, India  
-🎯 **Passion:** Developing games, streaming, and sharing gaming content
+🎯 **Passion:** Developing games, streaming, and sharing gaming content  
 🔥 **Current Focus:** Creating immersive gaming experiences  
+
+---
+
+### 💪 **Strengths**  
+✔️ Hard-working  
+✔️ Team Leading  
+✔️ Dedicated to Perfection  
+
+---
+
+### 🌍 **Languages**  
+- 🇬🇧 **English** ○ ○ ○ ○ ○ (Fluent)  
+- 🇮🇳 **Gujarati** ○ ○ ○ ○ ○ (Fluent)  
+- 🇮🇳 **Hindi** ○ ○ ○ ○ ○ (Fluent)  
+
+---
+
+### 🎯 **Hobbies**  
+🎮 Gaming  
+🏏 Cricket  
+💻 Coding  
+✈️ Travel  
+📸 Photography  
 
 ---
 
@@ -27,17 +50,35 @@
 
 ---
 
-### 🕹️ **Game Development & Tech Stack**  
-**Languages & Engines:**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+### 🛠 **Skills & Technologies**  
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### **Programming Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+#### **Game Development & Engines:**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)  
+
+#### **Software & Tools:**  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)  
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
+
+#### **Technologies:**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+![Google AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white)  
+![API](https://img.shields.io/badge/API-0089D6?style=for-the-badge)  
+![Multiplayer](https://img.shields.io/badge/Multiplayer-FF69B4?style=for-the-badge)  
+
+#### **Version Control & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-7B42BC?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
@@ -56,8 +97,9 @@
 
 ---
 
-📌 **Check out my full portfolio** [here](https://github.com/SondagarMit?tab=repositories)!  
+### 🎮 **My Game Projects**  
+🔹 [Game 1](https://github.com/SondagarMit/YourGame1) – Description of your game  
+🔹 [Game 2](https://github.com/SondagarMit/YourGame2) – Description of your game  
+🔹 [Game 3](https://github.com/SondagarMit/YourGame3) – Description of your game  
 
----
-
-⭐ **Star my repositories and let's connect!** 😊🎮  
+📌 **Check out my full portfolio** [here](https://
