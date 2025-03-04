@@ -6,11 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=SondagarMit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SondagarMit&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
@@ -21,6 +18,22 @@
 📍 **Location:** Surat, India  
 🎯 **Passion:** Developing games, streaming, and sharing gaming content  
 🔥 **Current Focus:** Creating immersive gaming experiences  
+
+---
+
+## 🏆 **Key Attributes**
+<table>
+  <tr>
+    <th>💪 Strengths</th>
+    <th>🌍 Languages</th>
+    <th>🎯 Hobbies</th>
+  </tr>
+  <tr>
+    <td>✔️ Hard-working<br>✔️ Team Leading<br>✔️ Dedicated to Perfection</td>
+    <td>🇬🇧 English<br>🇮🇳 Gujarati<br>🇮🇳 Hindi</td>
+    <td>🎮 Gaming<br>🏏 Cricket<br>💻 Coding<br>✈️ Travel<br>📸 Photography</td>
+  </tr>
+</table>
 
 ---
 
@@ -62,22 +75,6 @@
 
 ---
 
-## 🏆 **Key Attributes**
-<table>
-  <tr>
-    <th>💪 Strengths</th>
-    <th>🌍 Languages</th>
-    <th>🎯 Hobbies</th>
-  </tr>
-  <tr>
-    <td>✔️ Hard-working<br>✔️ Team Leading<br>✔️ Dedicated to Perfection</td>
-    <td>🇬🇧 English<br>🇮🇳 Gujarati<br>🇮🇳 Hindi</td>
-    <td>🎮 Gaming<br>🏏 Cricket<br>💻 Coding<br>✈️ Travel<br>📸 Photography</td>
-  </tr>
-</table>
-
----
-
 ## 🔗 **Connect with Me**  
 <p align="left">
   <a href="https://www.linkedin.com/in/mit-sondagar/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -85,21 +82,6 @@
   <a href="https://github.com/SondagarMit" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:sondagarmit@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.youtube.com/@GamingWithMitOfficial" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
----
-
-## 📈 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SondagarMit&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SondagarMit&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SondagarMit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
