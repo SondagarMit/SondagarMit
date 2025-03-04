@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Mit+Sondagar!+%F0%9F%8E%AE%F0%9F%9A%80;Game+Developer+%7C+Gamer+%7C+YouTuber+%F0%9F%8E%A5" alt="Typing Animation" />
-</h1>  
+<h1 align="center">Hi, I'm Mit Sondagar! 🎮🚀</h1>  
+<h3 align="center">Game Developer | Gamer | YouTuber 🎥</h3>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SondagarMit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +7,7 @@
 
 ---
 
-## 🌟 **About Me**  
+## 🌟 About Me  
 💡 **Name:** Mit Sondagar  
 🎮 **Profession:** Game Developer & YouTuber  
 📍 **Location:** Surat, India  
@@ -17,7 +16,7 @@
 
 ---
 
-## 📈 **GitHub Stats**  
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SondagarMit&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -32,7 +31,7 @@
 
 ---
 
-## 🏆 **Key Attributes**
+## 🏆 Key Attributes
 <table>
   <tr>
     <th>💪 Strengths</th>
@@ -48,7 +47,7 @@
 
 ---
 
-## 🛠 **Skills & Technologies**  
+## 🛠 Skills & Technologies  
 
 ### **Programming Languages**  
 <p align="left">
@@ -86,7 +85,7 @@
 
 ---
 
-## 🔗 **Connect with Me**  
+## 🔗 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/mit-sondagar/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/MitSondagar" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
