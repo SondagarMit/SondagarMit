@@ -24,9 +24,9 @@
 ---
 
 ### 🌍 **Languages**  
-- 🇬🇧 **English** ○ ○ ○ ○ ○ (Fluent)  
-- 🇮🇳 **Gujarati** ○ ○ ○ ○ ○ (Fluent)  
-- 🇮🇳 **Hindi** ○ ○ ○ ○ ○ (Fluent)  
+- 🇬🇧 **English**  
+- 🇮🇳 **Gujarati**  
+- 🇮🇳 **Hindi**  
 
 ---
 
@@ -55,6 +55,8 @@
 #### **Programming Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
@@ -67,11 +69,15 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)  
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-5C2D91?style=for-the-badge&logo=github&logoColor=white)  
 
 #### **Technologies:**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
 ![Google AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white)  
 ![API](https://img.shields.io/badge/API-0089D6?style=for-the-badge)  
+![AI Automation](https://img.shields.io/badge/AI%20Automation-FF69B4?style=for-the-badge)  
 ![Multiplayer](https://img.shields.io/badge/Multiplayer-FF69B4?style=for-the-badge)  
 
 #### **Version Control & DevOps:**  
@@ -102,4 +108,8 @@
 🔹 [Game 2](https://github.com/SondagarMit/YourGame2) – Description of your game  
 🔹 [Game 3](https://github.com/SondagarMit/YourGame3) – Description of your game  
 
-📌 **Check out my full portfolio** [here](https://
+📌 **Check out my full portfolio** [here](https://github.com/SondagarMit?tab=repositories)!  
+
+---
+
+⭐ **Star my repositories and let's connect!** 😊🎮  
