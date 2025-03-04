@@ -76,15 +76,14 @@
 #### **Technologies:**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
 ![Google AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white)  
-![API](https://img.shields.io/badge/API-0089D6?style=for-the-badge)  
-![AI Automation](https://img.shields.io/badge/AI%20Automation-FF69B4?style=for-the-badge)  
-![Multiplayer](https://img.shields.io/badge/Multiplayer-FF69B4?style=for-the-badge)  
+![API](https://img.shields.io/badge/API-0089D6?style=for-the-badge&logo=api&logoColor=white)  
+![AI Automation](https://img.shields.io/badge/AI%20Automation-FF69B4?style=for-the-badge&logo=artificialintelligence&logoColor=white)  
+![Multiplayer](https://img.shields.io/badge/Multiplayer-FF69B4?style=for-the-badge&logo=multiplayer&logoColor=white)  
 
 #### **Version Control & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-7B42BC?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
@@ -103,12 +102,7 @@
 
 ---
 
-### 🎮 **My Game Projects**  
-🔹 [Game 1](https://github.com/SondagarMit/YourGame1) – Description of your game  
-🔹 [Game 2](https://github.com/SondagarMit/YourGame2) – Description of your game  
-🔹 [Game 3](https://github.com/SondagarMit/YourGame3) – Description of your game  
-
-📌 **Check out my full portfolio** [here](https://github.com/SondagarMit?tab=repositories)!  
+📌 **Check out my full portfolio** [here](https://sondagarmit.github.io/)!  
 
 ---
 
