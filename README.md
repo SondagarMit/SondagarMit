@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mit Sondagar! 👋</h1>  
-<h3 align="center">🚀 Python Developer | Tech Enthusiast | Open-Source Contributor</h3>  
+<h1 align="center">Hi, I'm Mit Sondagar! 🎮🚀</h1>  
+<h3 align="center">Game Developer | Gamer | YouTuber 🎥</h3>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SondagarMit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,10 +9,10 @@
 
 ### 👨‍💻 **About Me**  
 💡 **Name:** Mit Sondagar  
-🎂 **Age:** [Your Age]  
-💼 **Profession:** Python Developer & Software Engineer  
-📍 **Location:** [Your City, Country]  
-🎯 **Goals:** Building scalable projects & contributing to open-source  
+🎮 **Profession:** Game Developer & YouTuber  
+📍 **Location:** Surat, India  
+🎯 **Passion:** Developing games, streaming, and sharing gaming content
+🔥 **Current Focus:** Creating immersive gaming experiences  
 
 ---
 
@@ -22,22 +22,20 @@
 <a href="https://twitter.com/YOUR_HANDLE" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://github.com/SondagarMit" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.youtube.com/YOURCHANNEL" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
 
-### 🛠 **Tech Stack & Tools**  
-**Languages & Frameworks:**  
+### 🕹️ **Game Development & Tech Stack**  
+**Languages & Engines:**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-**Databases & Cloud:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Tools:**  
+**Other Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -58,13 +56,8 @@
 
 ---
 
-### 🚀 **My Projects**  
-🔹 [Project 1](https://github.com/SondagarMit/YourProject1) – Description of your project  
-🔹 [Project 2](https://github.com/SondagarMit/YourProject2) – Description of your project  
-🔹 [Project 3](https://github.com/SondagarMit/YourProject3) – Description of your project  
-
 📌 **Check out my full portfolio** [here](https://github.com/SondagarMit?tab=repositories)!  
 
 ---
 
-⭐ **Star my repositories and let's connect!** 😊  
+⭐ **Star my repositories and let's connect!** 😊🎮  
